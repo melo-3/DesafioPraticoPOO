@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\DesafioPratico\DesafioPratico\bin\Debug\DesafioPratico.exe.config
+C:\Users\Aluno\source\repos\DesafioPratico\DesafioPratico\bin\Debug\DesafioPratico.exe
+C:\Users\Aluno\source\repos\DesafioPratico\DesafioPratico\bin\Debug\DesafioPratico.pdb
+C:\Users\Aluno\source\repos\DesafioPratico\DesafioPratico\obj\Debug\DesafioPratico.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\DesafioPratico\DesafioPratico\obj\Debug\DesafioPratico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\DesafioPratico\DesafioPratico\obj\Debug\DesafioPratico.exe
+C:\Users\Aluno\source\repos\DesafioPratico\DesafioPratico\obj\Debug\DesafioPratico.pdb
